@@ -1,10 +1,11 @@
 # Hello 👋
 
-## Welcome to my GitHub! I'm Ricardo Maciel (Ricky), Full-stack Developer
+## I'm Ricardo Maciel (Ricky), Full-stack Developer
 
 [![Linkedin: rickymaciel](https://img.shields.io/badge/rickymaciel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickymaciel/)](https://www.linkedin.com/in/rickymaciel/)  <img src="https://visitor-badge.laobi.icu/badge?page_id=rickymaciel" /> <img src="https://img.shields.io/github/followers/rickymaciel?label=Follow&style=social" />
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ricky_maciel?style=social)
+
 
 
 ### `${path}`/profile.js
@@ -15,7 +16,7 @@ const rickymaciel: Developer = {
         name: "Ricardo",
         last_name: "Maciel",
         nickname: "Ricky"
-    }
+    },
     technologies: {
         fontend: {
             node: {
