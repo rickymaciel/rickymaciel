@@ -15,7 +15,7 @@
 
 </div>
 
-## 📊 Github Stats
+## 📈 Github Stats
 
 <br>
 
@@ -29,7 +29,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <img alt="Ricky Maciel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rickymaciel&custom_title=Ricky Maciel's%20Contribution%20Graph&bg_color=1F222E&color=FFFFFF&line=1434C4&point=FFFFFF&hide_border=false" />
+   <img alt="Ricky Maciel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rickymaciel&custom_title=Ricky%20Maciel%27s%20Contribution%20Graph&bg_color=1F222E&color=FFFFFF&line=1434C4&point=FFFFFF&hide_border=false" />
   <br/>
 </details>
 
