@@ -2,8 +2,6 @@
 
 # Hello World 🔥
 
-## Hi, I'm Ricardo Maciel (Ricky)
-
 **Full-stack Developer**
 
 <a  href= "https://dev.to/rickymaciel"><img src="https://img.icons8.com/windows/40/000000/dev.png"/></a>
